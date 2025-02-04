@@ -1,7 +1,11 @@
-![Banner](./images/image-1.png)
-# Hi there, I'm Yash 👋
+<p align="center">
+  <img src="./images/image-1.png" alt="Banner" style="max-width: 100%; height: auto;" />
+<h1 align="center" style="color:red;"><b>Hi there, I'm Yash 👋</b></h1>
 
-## 💫 About Me:
+<p align="center">
+
+## 💫 About Me
+
 I'm a **Software Engineer** passionate about building scalable systems. I love solving problems and making technology more efficient.
 
 - 🌱 Currently learning **Nx** and **Neo4J DB**.
@@ -21,10 +25,16 @@ I'm a **Software Engineer** passionate about building scalable systems. I love s
 - **[School Management System](https://github.com/yashrsb/School-Management-System):** A backend project providing a centralized platform for school administrators to manage their institutions efficiently.  
 - **[Countries World](https://github.com/yashrsb/countries_world):** Displays information about different countries, including name, capital, currency, weather, and exchange rates.  
 
-## 📞 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/yash-raj-singh-b-2b229a198/)
-- [Mail](mailto:yrajsingh0001@![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)gmail.com)
+## 🌟 Connect with Me:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-raj-singh-b-2b229a198/)
+- 📧 [Email Me](mailto:yrajsingh0001@gmail.com)
 
 ## 💡 Quote of the Day:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+## 💰 Support Me
+<a href="https://buymeacoffee.com/yashrsb" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=yashrsb&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&outline_width=2&coffee_colour=ffffff" alt="Buy me a coffee" />
+</a>
