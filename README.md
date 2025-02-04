@@ -1,6 +1,7 @@
+![Banner](./images/image-1.png)
 # Hi there, I'm Yash 👋
 
-## About Me:
+## 💫 About Me:
 I'm a **Software Engineer** passionate about building scalable systems. I love solving problems and making technology more efficient.
 
 - 🌱 Currently learning **Nx** and **Neo4J DB**.
