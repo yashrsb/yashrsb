@@ -36,10 +36,10 @@ I'm a **Software Engineer** passionate about building scalable systems. I love s
 <br/>
 
 <h1 align="center">🚀 Tech Stack</h1>
-
-<p align="center">
+<br/>
+  <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,html,css,aws,docker,gcp,python,c,javascript,sqlite,graphql,typescript,nestjs,golang,kafka,git,gitlab,vscode,postman,firebase,notion" alt="Tech Stack" />
-</p>
+
 <br/>
 
 <h1 align="center">📊 GitHub Stats</h1>
