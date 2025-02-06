@@ -34,24 +34,20 @@ I'm a **Software Engineer** passionate about building scalable systems. I love s
        src="https://custom-icon-badges.herokuapp.com/github/followers/yashrsb?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
 
 <br/>
-
+<br/>
 <h1 align="center">🚀 Tech Stack</h1>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); gap: 10px; justify-content: center; text-align: center; width: 80%; margin: auto;">
+  <img src="https://skillicons.dev/icons?i=,," 
+       alt="Tech Stack" />
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,c,javascript,graphql,postgres,mongodb,html" /><br>
+    <img src="https://skillicons.dev/icons?i=sqlite,graphql,typescript,nestjs,golang,css,aws,docker,gcp" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,kafka,git,gitlab,vscode,postman,firebase,notion,atom" /><br>
+</div>
 <br/>
-  <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,html,css,aws,docker,gcp,python,c,javascript,sqlite,graphql,typescript,nestjs,golang,kafka,git,gitlab,vscode,postman,firebase,notion" alt="Tech Stack" />
-
 <br/>
-
-<h1 align="center">📊 GitHub Stats</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashrsb&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrsb&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrsb&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<br/>
-
-
 <h1 align="center"> 💡 Quote of the Day</h1>
 
 <p align="center">
@@ -60,7 +56,9 @@ I'm a **Software Engineer** passionate about building scalable systems. I love s
 
 <h1 align="center">💰 Support Me</h1>
 <p align="center">
-  <a href="https://buymeacoffee.com/yashrsb" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=yashrsb&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&outline_width=2&coffee_colour=ffffff" alt="Buy me a coffee" />
   </a>
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
