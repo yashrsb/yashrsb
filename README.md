@@ -40,7 +40,6 @@ I'm a **Software Engineer** passionate about building scalable systems. I love s
   <img src="https://skillicons.dev/icons?i=,," 
        alt="Tech Stack" />
 </div>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,c,javascript,graphql,postgres,mongodb,html" /><br>
     <img src="https://skillicons.dev/icons?i=sqlite,graphql,typescript,nestjs,golang,css,aws,docker,gcp" /><br>
@@ -57,8 +56,8 @@ I'm a **Software Engineer** passionate about building scalable systems. I love s
 <h1 align="center">💰 Support Me</h1>
 <p align="center">
   <a href="" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=yashrsb&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&outline_width=2&coffee_colour=ffffff" alt="Buy me a coffee" />
-  </a>
+    <a href="https://www.buymeacoffee.com/yashrsb"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="yashrsb" /></a>
+
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
